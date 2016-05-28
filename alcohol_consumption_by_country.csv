@@ -1,0 +1,184 @@
+COUNTRY,kek,COUNTRY,GDP (BILLIONS),CODE
+Afghanistan,0.7,Afghanistan,21.71,AFG
+Albania,7,Albania,13.40,ALB
+Algeria,1,Algeria,227.80,DZA
+Andorra,13.8,Andorra,4.80,AND
+Angola,7.5,Angola,131.40,AGO
+Argentina,9.3,Argentina,536.20,ARG
+Armenia,5.3,Armenia,10.88,ARM
+Australia,12.2,Australia,1483.00,AUS
+Austria,10.3,Austria,436.10,AUT
+Azerbaijan,2.3,Azerbaijan,77.91,AZE
+Bahamas,6.9,"Bahamas, The",8.65,BHM
+Bangladesh,0.2,Bangladesh,186.60,BGD
+Barbados,6.8,Barbados,4.28,BRB
+Belarus,17.5,Belarus,75.25,BLR
+Belgium,11,Belgium,527.80,BEL
+Belize,8.5,Belize,1.67,BLZ
+Benin,2.1,Benin,9.24,BEN
+Bhutan,0.7,Bhutan,2.09,BTN
+Bolivia,5.9,Bolivia,34.08,BOL
+Bosnia and Herzegovina,7.1,Bosnia and Herzegovina,19.55,BIH
+Botswana,8.4,Botswana,16.30,BWA
+Brazil,8.7,Brazil,2244.00,BRA
+Brunei,2.1,Brunei,17.43,BRN
+Bulgaria,11.4,Bulgaria,55.08,BGR
+Burkina Faso,6.8,Burkina Faso,13.38,BFA
+Burma,0.7,Burma,65.29,MMR
+Burundi,9.3,Burundi,3.04,BDI
+Cambodia,5.5,Cambodia,16.90,KHM
+Cameroon,8.4,Cameroon,32.16,CMR
+Canada,10.2,Canada,1794.00,CAN
+Cape Verde,6.9,Cabo Verde,1.98,CPV
+Central African Republic,3.8,Central African Republic,1.73,CAF
+Chad,4.4,Chad,15.84,TCD
+Chile,9.6,Chile,264.10,CHL
+China,6.7,China,10360.00,CHN
+Colombia,6.2,Colombia,400.10,COL
+Comoros,0.2,Comoros,0.72,COM
+Cook Islands,6.4,Cook Islands,0.18,COK
+Costa Rica,5.4,Costa Rica,50.46,CRI
+Croatia,12.2,Croatia,57.18,HRV
+Cuba,5.2,Cuba,77.15,CUB
+Cyprus,9.2,Cyprus,21.34,CYP
+Czech Republic,13,Czech Republic,205.60,CZE
+Denmark,11.4,Denmark,347.20,DNK
+Djibouti,1.3,Djibouti,1.58,DJI
+Dominica,7.1,Dominica,0.51,DMA
+Dominican Republic,6.9,Dominican Republic,64.05,DOM
+Ecuador,7.2,Ecuador,100.50,ECU
+Egypt,0.4,Egypt,284.90,EGY
+El Salvador,3.2,El Salvador,25.14,SLV
+Equatorial Guinea,6.6,Equatorial Guinea,15.40,GNQ
+Eritrea,1.1,Eritrea,3.87,ERI
+Estonia,10.3,Estonia,26.36,EST
+Ethiopia,4.2,Ethiopia,49.86,ETH
+Fiji,3,Fiji,4.17,FJI
+Finland,12.3,Finland,276.30,FIN
+France,12.2,France,2902.00,FRA
+Gabon,10.9,Gabon,20.68,GAB
+Gambia,3.4,"Gambia, The",0.92,GMB
+Georgia,7.7,Georgia,16.13,GEO
+Germany,11.8,Germany,3820.00,DEU
+Ghana,4.8,Ghana,35.48,GHA
+Greece,10.3,Greece,246.40,GRC
+Grenada,12.5,Grenada,0.84,GRD
+Guatemala,3.8,Guatemala,58.30,GTM
+Guinea,0.7,Guinea,6.77,GIN
+Guinea-Bissau,4,Guinea-Bissau,1.04,GNB
+Guyana,8.1,Guyana,3.14,GUY
+Haiti,6.4,Haiti,8.92,HTI
+Honduras,4,Honduras,19.37,HND
+Hungary,13.3,Hungary,129.70,HUN
+Iceland,7.1,Iceland,16.20,ISL
+India,4.3,India,2048.00,IND
+Indonesia,0.6,Indonesia,856.10,IDN
+Iran,1,Iran,402.70,IRN
+Iraq,0.5,Iraq,232.20,IRQ
+Ireland,11.9,Ireland,245.80,IRL
+Israel,2.8,Israel,305.00,ISR
+Italy,6.7,Italy,2129.00,ITA
+Jamaica,4.9,Jamaica,13.92,JAM
+Japan,7.2,Japan,4770.00,JPN
+Jordan,0.7,Jordan,36.55,JOR
+Kazakhstan,10.3,Kazakhstan,225.60,KAZ
+Kenya,4.3,Kenya,62.72,KEN
+Kiribati,3,Kiribati,0.16,KIR
+Kuwait,0.1,Kuwait,179.30,KWT
+Kyrgyzstan,4.3,Kyrgyzstan,7.65,KGZ
+Laos,7.3,Laos,11.71,LAO
+Latvia,12.3,Latvia,32.82,LVA
+Lebanon,2.4,Lebanon,47.50,LBN
+Lesotho,6.5,Lesotho,2.46,LSO
+Liberia,4.7,Liberia,2.07,LBR
+Libya,0.1,Libya,49.34,LBY
+Lithuania,15.4,Lithuania,48.72,LTU
+Luxembourg,11.9,Luxembourg,63.93,LUX
+Macedonia,6.7,Macedonia,10.92,MKD
+Madagascar,1.8,Madagascar,11.19,MDG
+Malawi,2.5,Malawi,4.41,MWI
+Malaysia,1.3,Malaysia,336.90,MYS
+Maldives,1.2,Maldives,2.41,MDV
+Mali,1.1,Mali,12.04,MLI
+Malta,7,Malta,10.57,MLT
+Mauritania,0.1,Mauritania,4.29,MRT
+Mauritius,3.6,Mauritius,12.72,MUS
+Mexico,7.2,Mexico,1296.00,MEX
+Moldova,16.8,Moldova,7.74,MDA
+Mongolia,6.9,Mongolia,11.73,MNG
+Montenegro,8.7,Montenegro,4.66,MNE
+Morocco,0.9,Morocco,112.60,MAR
+Mozambique,2.3,Mozambique,16.59,MOZ
+Namibia,10.8,Namibia,13.11,NAM
+Nepal,2.2,Nepal,19.64,NPL
+Netherlands,9.9,Netherlands,880.40,NLD
+New Zealand,10.9,New Zealand,201.00,NZL
+Nicaragua,5,Nicaragua,11.85,NIC
+Niger,0.3,Niger,8.29,NER
+Nigeria,10.1,Nigeria,594.30,NGA
+Niue,8,Niue,0.01,NIU
+Norway,7.7,Norway,511.60,NOR
+Oman,0.9,Oman,80.54,OMN
+Pakistan,0.1,Pakistan,237.50,PAK
+Palau,7.9,Palau,0.65,PLW
+Panama,8,Panama,44.69,PAN
+Papua New Guinea,3,Papua New Guinea,16.10,PNG
+Paraguay,8.8,Paraguay,31.30,PRY
+Peru,8.1,Peru,208.20,PER
+Philippines,5.4,Philippines,284.60,PHL
+Poland,12.5,Poland,552.20,POL
+Portugal,12.9,Portugal,228.20,PRT
+Puerto Rico,5.4,Puerto Rico,93.52,PRI
+Qatar,1.5,Qatar,212.00,QAT
+Romania,14.4,Romania,199.00,ROU
+Russia,15.1,Russia,2057.00,RUS
+Rwanda,9.8,Rwanda,8.00,RWA
+Saint Kitts and Nevis,8.2,Saint Kitts and Nevis,0.81,KNA
+Saint Lucia,10.4,Saint Lucia,1.35,LCA
+Saint Vincent and the Grenadines,6.6,Saint Vincent and the Grenadines,0.75,VCT
+Samoa,3.6,Samoa,0.83,WSM
+Sao Tome and Principe,7.1,Sao Tome and Principe,0.36,STP
+Saudi Arabia,0.2,Saudi Arabia,777.90,SAU
+Senegal,0.6,Senegal,15.88,SEN
+Serbia,12.6,Serbia,42.65,SRB
+Seychelles,5.6,Seychelles,1.47,SYC
+Sierra Leone,8.7,Sierra Leone,5.41,SLE
+Singapore,2,Singapore,307.90,SGP
+Slovakia,13,Slovakia,99.75,SVK
+Slovenia,11.6,Slovenia,49.93,SVN
+Solomon Islands,1.7,Solomon Islands,1.16,SLB
+Somalia,0.5,Somalia,2.37,SOM
+South Africa,11,South Africa,341.20,ZAF
+South Korea,12.3,South Sudan,11.89,SSD
+Spain,11.2,Spain,1400.00,ESP
+Sri Lanka,3.7,Sri Lanka,71.57,LKA
+Sudan,2.7,Sudan,70.03,SDN
+Suriname,6.6,Suriname,5.27,SUR
+Swaziland,5.7,Swaziland,3.84,SWZ
+Sweden,9.2,Sweden,559.10,SWE
+Switzerland,10.7,Switzerland,679.00,CHE
+Syria,1.2,Syria,64.70,SYR
+Tajikistan,2.8,Tajikistan,9.16,TJK
+Tanzania,7.7,Tanzania,36.62,TZA
+Thailand,7.1,Thailand,373.80,THA
+Timor-Leste,0.6,Timor-Leste,4.51,TLS
+Togo,2.3,Togo,4.84,TGO
+Tonga,1.6,Tonga,0.49,TON
+Trinidad and Tobago,6.7,Trinidad and Tobago,29.63,TTO
+Tunisia,1.5,Tunisia,49.12,TUN
+Turkey,2,Turkey,813.30,TUR
+Turkmenistan,4.3,Turkmenistan,43.50,TKM
+Tuvalu,1.5,Tuvalu,0.04,TUV
+Uganda,9.8,Uganda,26.09,UGA
+Ukraine,13.9,Ukraine,134.90,UKR
+United Arab Emirates,4.3,United Arab Emirates,416.40,ARE
+United Kingdom,11.6,United Kingdom,2848.00,GBR
+United States,9.2,United States,17420.00,USA
+Uruguay,7.6,Uruguay,55.60,URY
+Uzbekistan,4.6,Uzbekistan,63.08,UZB
+Vanuatu,1.4,Vanuatu,0.82,VUT
+Venezuela,8.9,Venezuela,209.20,VEN
+Vietnam,6.6,Vietnam,187.80,VNM
+Yemen,0.3,Yemen,45.45,YEM
+Zambia,4,Zambia,25.61,ZMB
+Zimbabwe,5.7,Zimbabwe,13.74,ZWE
